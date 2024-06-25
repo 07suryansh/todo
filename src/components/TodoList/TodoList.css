@@ -1,0 +1,8 @@
+.todo-list{
+    width: 100%;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+}

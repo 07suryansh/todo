@@ -1,0 +1,11 @@
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    /* background-color: antiquewhite; */
+    height: 100%;
+    padding: 30px;
+    margin: 0;
+    width: 100%;
+}
